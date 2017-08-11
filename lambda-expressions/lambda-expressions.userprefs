@@ -1,6 +1,7 @@
 ﻿<Properties StartupConfiguration="{04D1C9B8-08DE-4DF2-A1DD-155C20F00631}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="lambda-expressions Status">
     <Files>
+      <File FileName="lambda-expressions/Program.cs" Line="27" Column="1" />
       <File FileName="lambda-expressions Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
