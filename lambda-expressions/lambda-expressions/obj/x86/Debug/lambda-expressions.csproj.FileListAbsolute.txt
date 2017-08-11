@@ -1,0 +1,5 @@
+/Users/wegneto/Dev/visualstudio-projects/dotnet-training/lambda-expressions/lambda-expressions/bin/Debug/lambda-expressions.exe
+/Users/wegneto/Dev/visualstudio-projects/dotnet-training/lambda-expressions/lambda-expressions/bin/Debug/lambda-expressions.pdb
+/Users/wegneto/Dev/visualstudio-projects/dotnet-training/lambda-expressions/lambda-expressions/obj/x86/Debug/lambda-expressions.csproj.CoreCompileInputs.cache
+/Users/wegneto/Dev/visualstudio-projects/dotnet-training/lambda-expressions/lambda-expressions/obj/x86/Debug/lambda-expressions.exe
+/Users/wegneto/Dev/visualstudio-projects/dotnet-training/lambda-expressions/lambda-expressions/obj/x86/Debug/lambda-expressions.pdb
